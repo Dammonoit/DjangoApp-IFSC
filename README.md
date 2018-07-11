@@ -18,4 +18,4 @@
 
 
 # **DjangoApp-IFSC**
-I've made a Django App where data can be entered on the home page by clicking on search button after entering the IFSC code of any bank and the end result directs you to a new page where data is projected and all this was achieved with the help of **razorpay api**. 
+I've made a **Django App** where data can be entered on the home page by clicking on search button after entering the IFSC code of any bank and the end result directs you to a new page where data is projected and all this was achieved with the help of **razorpay api**. 
